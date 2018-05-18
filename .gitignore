@@ -1,0 +1,11 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Compiled binary addons
+build/
+
+# Dependency directories
+node_modules/
+
+.history/
